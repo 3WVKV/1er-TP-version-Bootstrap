@@ -1,0 +1,10 @@
+footer {
+    min-height: 300px;
+}
+
+.bg-image {
+    background-size: cover;
+    background-image: url(../images/bg-footer.svg);
+    background-repeat: no-repeat;
+    min-height: 300px;
+}
